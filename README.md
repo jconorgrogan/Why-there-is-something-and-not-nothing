@@ -16,9 +16,7 @@ For the distinction between states to be meaningful, the states must share a com
 In addition to being distinguishable, the states must be possible within the system's defined boundaries. The system must differentiate between states that can occur and those that cannot. In the light switch example, the states "on" and "off" are possible, whereas a state like "half-on" or "floating" is non-possible. Non-possible states are irrelevant to the system and fall outside its scope. Defining what is possible within the system helps set its informational boundaries—information can only be carried by states that are valid within the system.
 
 ## The Role of the Observer
-In order to have information in the first place, it necessitates having a “vessel” within the system that is assessing the system and “processing the information”.
-
-The observer can be thought of as having two key characteristics:
+Observers, as we will see, are neccesary for information processing. The observer can be thought of as having two key characteristics:
 
 ### Ability to Distinguish Between States
 The observer must be able to recognize or differentiate between different states of the system. This could involve physical measurements, sensory perception, or conceptual recognition of distinctions (e.g., a scientist observing a physical phenomenon or a sensor distinguishing between temperature levels).
@@ -26,7 +24,6 @@ The observer must be able to recognize or differentiate between different states
 ### Subject to its Own Constraints and Imperfections
 An observer operates within its own framework of constraints and limitations, which may result in imperfect information. These constraints could be due to limitations in sensory abilities, measurement tools, knowledge, or conceptual understanding. No observer is perfectly omniscient; their view of the system is always partial or incomplete.
 
-#### Notably
 The observer’s constraints and imperfections (characteristic 2) are what shape and limit the ability to distinguish between states (characteristic 1). For example, a person with limited color vision may be unable to distinguish between certain shades of color that others can easily differentiate. This constraint directly limits their ability to perceive the full range of possible states within the system of color perception. The more limited or constrained the observer is, the fewer distinctions they can make. In this way, characteristic 2 directly leads to, and defines, characteristic 1.
 
 ### Information Depends on the Ability to Distinguish States
