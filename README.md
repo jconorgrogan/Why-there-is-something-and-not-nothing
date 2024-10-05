@@ -16,7 +16,7 @@ For the distinction between states to be meaningful, the states must share a com
 In addition to being distinguishable, the states must be possible within the system's defined boundaries. The system must differentiate between states that can occur and those that cannot. In the light switch example, the states "on" and "off" are possible, whereas a state like "half-on" or "floating" is non-possible. Non-possible states are irrelevant to the system and fall outside its scope. Defining what is possible within the system helps set its informational boundaries—information can only be carried by states that are valid within the system.
 
 ## The Role of the Observer
-Observers, as we will see, are neccesary for information processing. The observer can be thought of as having two key characteristics:
+What is an observer?
 
 ### Ability to Distinguish Between States
 The observer must be able to recognize or differentiate between different states of the system. This could involve physical measurements, sensory perception, or conceptual recognition of distinctions (e.g., a scientist observing a physical phenomenon or a sensor distinguishing between temperature levels).
@@ -26,14 +26,20 @@ An observer operates within its own framework of constraints and limitations, wh
 
 The observer’s constraints and imperfections (characteristic 2) are what shape and limit the ability to distinguish between states (characteristic 1). For example, a person with limited color vision may be unable to distinguish between certain shades of color that others can easily differentiate. This constraint directly limits their ability to perceive the full range of possible states within the system of color perception. The more limited or constrained the observer is, the fewer distinctions they can make. In this way, characteristic 2 directly leads to, and defines, characteristic 1.
 
-### Information Depends on the Ability to Distinguish States
-For information to exist, different states must be distinguished, and this can only happen if there's an observer with the ability to recognize those distinctions. Without an observer to perceive differences between possible states, information, in a meaningful sense, does not arise. For instance, consider how a thermostat reading only becomes meaningful when someone interprets the temperature as 'hot' or 'cold.' Without that observer, the distinction between temperature levels lacks any informational context. The existence of information is tied to the presence of an observer who can make sense of it.
+### Observers as neccesary and sufficient for information formaiton 
+
+The observer doesn't just recognize boundaries; they can be considered as the boundaries that determine the existence and structure of information.
+
+In this perspective, the observer defines the limits within which distinctions can be made—essentially setting the framework that determines:
+
+What can be distinguished: The observer's perception defines what counts as distinct states.
+
+What is possible versus non-possible: The boundaries between possible and impossible states are shaped by the observer's constraints and capabilities.
+
+The context: The observer establishes the context within which these distinctions have meaning. Without the observer, there wouldn't be a reference frame that provides meaning to the differences.
 
 ### The Observer's Imperfections Shape Information
 The observer’s limitations (imperfect senses, tools, or knowledge) play a crucial role in shaping what information is perceived. Since no observer is omniscient or perfect, the distinctions they draw are shaped by their constraints. These constraints might lead to partial or incomplete information, but nonetheless, they create the structure through which the observer perceives reality. This means that what we call "information" is not an objective feature of the universe alone but is influenced by the observer's subjective framework.
-
-### Information is Relative to the Observer's Capabilities
-The key idea is that information isn't an independent feature that exists regardless of observation—it arises when an observer interprets or measures differences. The very act of observation introduces distinctions, and these distinctions depend on the observer's ability to process them. In a universe with absolute uniformity (no differences), information would only exist for an observer due to their limitations—essentially, they would impose structure on a homogenous world.
 
 ## The Universe as Information
 There are many competing frameworks which attempt to describe reality: quantum mechanics, general relativity, string theory etc. The one thing they all agree on? All are united in that they rely on information to describe reality, at every layer of complexity:
