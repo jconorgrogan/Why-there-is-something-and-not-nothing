@@ -10,35 +10,37 @@ There are many competing theories about what the universe is made of, and why an
 - In **general relativity**, information is encoded in the curvature of spacetime caused by mass and energy. The geometry of the universe conveys information about gravitational fields and the distribution of matter.
 - **Black hole thermodynamics** introduces the concept of entropy proportional to the event horizon's area, suggesting that information about all the matter that has fallen into a black hole is encoded on its surface. This leads to the holographic principle, which posits that all the information contained within a volume of space can be represented as information on the boundary of that space.
 
-No matter how we attempt to frame the fundamental nature of the universe (whether through energy, consciousness, fields, or mathematics), each of these frameworks ultimately requires information to be processed, differentiated, and understood. Information, in this context, becomes an unavoidable concept that we need to have an answer for emerging.
+No matter how we attempt to frame the fundamental nature of the universe (whether through energy, consciousness, fields, or mathematics), each of these frameworks ultimately requires information to be processed, differentiated, and understood. 
 
 ## Reframing the Question: Why is there information?
-If everything boils down to information, then the a way to rephrase the question "Why is there something rather than nothing?" becomes "How and why is there information rather than no information? And in order to attempt to formulate an answer to this question, we need to be precise on what information is and the conditions on which it may arise. 
+We can thus rephrase the question "Why is there something rather than nothing?" into a more precise "How and why is there information rather than no information? 
+
+In order to attempt to formulate an answer to this question, we need to be precise on what information is and the conditions on which it may arise. 
 
 ## What is Information?
 
 In a nutshell, information exists when one state can be identified as distinct from another. Without the ability to make such distinctions, no information can be conveyed. More specifically, the following criteria must be met:
 
-### 1. Multiple Distinguishable States
+### 1. Multiple Distinguishable States must be identified 
 There must be more than one possible state that can be differentiated. Information arises when these states are distinguishable in some observable or meaningful way. For example, a light switch has two possible states: "on" and "off." These states are distinct because they produce different effects—light or darkness. If only one state existed, no information could be conveyed because there would be nothing to compare.  
 
-### 2. Common Basis for Distinction
+### 2. There must be a common basis to make any distinction 
 For the distinction between states to be meaningful, the states must share a common basis within the same system. This commonality provides the framework that allows the states to be compared and understood in relation to each other. For example, in the light switch system, both "on" and "off" pertain to the function of controlling light. They are distinguishable within this shared framework of light control, and it is this commonality that enables the comparison between these states. States outside this framework (e.g., the color of the switch) do not contribute to the informational content in this context.
 
-### 3. Distinguishing Possible from Non-Possible States (eg system boundaries) 
-The system must differentiate between states (that are distinguishable) that "can occur", and those that are non distinguishable, or outside of the realm of possibilities. In the light switch example, the states "on" and "off" are possible, whereas a state like "half-on" or "floating" is non-possible. Non-possible states are irrelevant to the system and fall outside its scope; furthermore they can be considered indistinguishable, from the perspective of the system. 
+### 3.The system must have boundaries, which define what is possible; As such there must be some set of non-disguishable and non-Possible States 
+The system must differentiate between states (that are distinguishable) that "can occur", and those that are non distinguishable, or outside of the realm of possibilities. In the light switch example, the states "on" and "off" are possible, whereas a state like "half-on" or "floating" is non-possible. Non-possible states are irrelevant to the system and fall outside its scope; furthermore they can be considered indistinguishable from the perspective of the system alone. 
 
 ## Information requires multiple states of comparison: Enter the Role of the Observer
 
-Information is viewed and interpreted via an observer who has the :
+Information is viewed and interpreted via an observer who has the:
 
-**Ability to Differentiate..**. The observer has the inherent ability to make distinctions—whether through sensory perception, measurement, or conceptual analysis. This capability is what gives rise to information.
+**Ability to Differentiate..**. The observer has the inherent ability to make distinctions—whether through sensory perception, measurement, or conceptual analysis. This capability is what gives rise to information. Think: A function that has the potential to output distinct values
 
 **...Across Multiple States:** The phrase "across multiple states" emphasizes that the observer is actively comparing and differentiating across various states. It isn't just observing a static singularity; it's the relationship between the states that creates meaningful information.  Without multiple states to distinguish between, the observer has no informational function.
 
-An observer operates within its own framework of constraints and limitations, which may result in imperfect information. These constraints could be due to limitations in sensory abilities, measurement tools, knowledge, or conceptual understanding. No observer is perfectly omniscient; their view of the system is always partial or incomplete.
+An observer operates within its own framework of constraints and limitations. These constraints could be due to limitations in sensory abilities, measurement tools, knowledge, or conceptual understanding. No observer is perfectly omniscient; their view of the system is always partial or incomplete.
 
-The observer’s constraints and imperfections  are what shape and limit the ability to distinguish between states.  For example, a person with limited color vision may be unable to distinguish between certain shades of color that others can easily differentiate. This constraint directly limits their ability to perceive the full range of possible states within the system of color perception. The more limited or constrained the observer is, the fewer distinctions they can make. In this way, their ability to differentiate is dependent directly on the state itself
+The observer’s constraints and imperfections are what shape and limit the ability to distinguish between states.  For example, a person with limited color vision may be unable to distinguish between certain shades of color that others can easily differentiate. This constraint directly limits their ability to perceive the full range of possible states within the system of color perception. The more limited or constrained the observer is, the fewer distinctions they can make. In this way, their ability to differentiate is dependent directly on the state itself
 
 With these definitions in mind, then the challenge is understanding how information might "emerge" in the first place 
 
