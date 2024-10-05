@@ -17,20 +17,22 @@ The unifying framework for all of these is that information is required.
 If everything boils down to information, then the a way to rephrase the question "Why is there something rather than nothing?" becomes "How and why is there information rather than no information?
 
 **What is Information?**
-Information exists when one state can be identified as distinct from another. Without the ability to make such distinctions, no information can be conveyed. At the most basic level, the following criteria must be met:
+Let's understand the definitions of information, so we can be clear on the conditions where information might arise.
 
-### Multiple Distinguishable States
+In a nutshell, information exists when one state can be identified as distinct from another. Without the ability to make such distinctions, no information can be conveyed. More specifically, the following criteria must be met:
+
+### 1. Multiple Distinguishable States
 There must be more than one possible state that can be differentiated. Information arises when these states are distinguishable in some observable or meaningful way. For example, a light switch has two possible states: "on" and "off." These states are distinct because they produce different effects—light or darkness. If only one state existed, no information could be conveyed because there would be nothing to compare.  
 
-### Common Basis for Distinction
+### 2. Common Basis for Distinction
 For the distinction between states to be meaningful, the states must share a common basis within the same system. This commonality provides the framework that allows the states to be compared and understood in relation to each other. For example, in the light switch system, both "on" and "off" pertain to the function of controlling light. They are distinguishable within this shared framework of light control, and it is this commonality that enables the comparison between these states. States outside this framework (e.g., the color of the switch) do not contribute to the informational content in this context.
 
-### Distinguishing Possible from Non-Possible States (eg system boundaries) 
+### 3. Distinguishing Possible from Non-Possible States (eg system boundaries) 
 The system must differentiate between states (that are distinguishable) that "can occur", and those that are non distinguishable, or outside of the realm of possibilities. In the light switch example, the states "on" and "off" are possible, whereas a state like "half-on" or "floating" is non-possible. Non-possible states are irrelevant to the system and fall outside its scope; furthermore they can be considered indistinguishable, from the perspective of the system. 
 
-## The Role of the Observer
+## Information requires multiple states of comparrison: Enter the Role of the Observer
 
-Information is viewed and interpretted via the lens of the observer:
+Information is viewed and interpreted via an observer who has the :
 
 **Ability to Differentiate..**. The observer has the inherent ability to make distinctions—whether through sensory perception, measurement, or conceptual analysis. This capability is what gives rise to information.
 
