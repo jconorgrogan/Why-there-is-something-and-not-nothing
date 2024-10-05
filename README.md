@@ -14,10 +14,9 @@ There are many competing theories about what the universe is made of, and why an
 No matter how we attempt to frame the fundamental nature of the universe (whether through energy, consciousness, fields, or mathematics), each of these frameworks ultimately requires information to be processed, differentiated, and understood. Information, in this context, becomes an unavoidable concept that we need to have an answer for emerging.
 
 ## Reframing the Question: Why is there information?
-If everything boils down to information, then the a way to rephrase the question "Why is there something rather than nothing?" becomes "How and why is there information rather than no information?
+If everything boils down to information, then the a way to rephrase the question "Why is there something rather than nothing?" becomes "How and why is there information rather than no information? And in order to attempt to formulate an answer to this question, we need to be precise on what information is and the conditions on which it may arise. 
 
-## What is Information?**
-Let's understand the definitions of information, so we can be clear on the conditions where information might arise.
+## What is Information?
 
 In a nutshell, information exists when one state can be identified as distinct from another. Without the ability to make such distinctions, no information can be conveyed. More specifically, the following criteria must be met:
 
