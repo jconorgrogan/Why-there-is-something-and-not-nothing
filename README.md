@@ -13,7 +13,7 @@ There are many competing theories about what the universe is made of, and why an
 
 The unifying framework for all of these is that information is required. 
 
-## Reframing the Question: Why Information?
+## Reframing the Question: Why is there information?
 If everything boils down to information, then the a way to rephrase the question "Why is there something rather than nothing?" becomes "How and why is there information rather than no information?
 
 **What is Information?**
@@ -57,7 +57,7 @@ Imagine the universe as a vast, continuous hypercube of sameness—each segment 
 These arbitrary cuts provide a way to break up the infinite sameness into subunits or frames that, while still homogenous, create the possibility for comparison.
 
 
-### How Observers Arise from Arbitrary Cuts:
+### How Observers arise from Arbitrary Cuts:
 - **Emerging Reference Frames**: As soon as you make arbitrary cuts, you create the potential for an observer, because an observer is a reference frame of indistinguishability within the universe. Even though the slices are indistinguishable at first, the fact that multiple slices exist means that an observer can emerge who is associated with one of those slices.
   
   These observers arise when some form of local reference (a particular cut or slice) begins to distinguish itself relative to other slices. The observer's imperfections allow them to perceive differences or relationships between these arbitrary slices, even if those distinctions don’t inherently exist in the original uniformity.
@@ -73,12 +73,11 @@ The core idea here is that in a perfectly homogenous set—a set where every poi
 
 When we think about observation or measurement, traditionally, we might think of a passive process where an observer simply detects or records the state of a system. However, if we reframe observers as entities with unique "frames of indistinguishability," then measurement becomes an active interaction between these frames.
 
-Distinct Frames Colliding to Create Distinction:
+******Distinct Frames Collide to Create Distinction; in other words, information must arise from no information, in an infinite universe**
 
 Consider two observers, Observer A and Observer B, each with their own frame of indistinguishability. Within their own frames, certain aspects of the universe are inherently indistinguishable to them—meaning they cannot perceive the differences.
 When Observer A interacts with Observer B (or with the system observed by Observer B), what occurs is that each observer brings their unique perspective or their unique capacity to distinguish into the interaction. This means that the overlap or intersection of these two distinct frames becomes an area of potential differentiation.
 Measurement, then, is the process by which these interactions resolve what was previously indistinguishable within either frame alone. It’s through the comparison and interaction between two different sets of constraints and capabilities that new distinctions (i.e., information) emerge.
-
 
 
 Mathematical Representation and Observer-Dependent Cuts
