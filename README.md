@@ -16,7 +16,8 @@ For the distinction between states to be meaningful, the states must share a com
 In addition to being distinguishable, the states must be possible within the system's defined boundaries. The system must differentiate between states that can occur and those that cannot. In the light switch example, the states "on" and "off" are possible, whereas a state like "half-on" or "floating" is non-possible. Non-possible states are irrelevant to the system and fall outside its scope. Defining what is possible within the system helps set its informational boundaries—information can only be carried by states that are valid within the system.
 
 ## The Role of the Observer
-What is an observer?
+
+How do boundaries arise in a system? One proposal: the _observer_ creates these system boundaries or even is the boundaries themselves. By distinguishing possible states from non-possible ones, the observer fundamentally shapes—and in a sense defines—the informational content that can be derived from the system
 
 ### Ability to Distinguish Between States
 The observer must be able to recognize or differentiate between different states of the system. This could involve physical measurements, sensory perception, or conceptual recognition of distinctions (e.g., a scientist observing a physical phenomenon or a sensor distinguishing between temperature levels).
