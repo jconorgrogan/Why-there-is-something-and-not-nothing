@@ -27,7 +27,7 @@ An observer operates within its own framework of constraints and limitations, wh
 
 Furthermore, the observer’s constraints and imperfections (characteristic 2) are what shape and limit the ability to distinguish between states (characteristic 1). For example, a person with limited color vision may be unable to distinguish between certain shades of color that others can easily differentiate. This constraint directly limits their ability to perceive the full range of possible states within the system of color perception. The more limited or constrained the observer is, the fewer distinctions they can make. In this way, characteristic 2 directly leads to, and defines, characteristic 1.
 
-**The Observer as the Defining Boundary of Information"**
+**The observer as a frame of indistinguishability**
 
 I would argue that you could make a claim that the _observer_ IS the system's boundries; more specifically, a specific frame of "indistinguishability" which has charectoristics that define its own constraints and imperfections, which then lead to a quality which enables it to distiguish amount states. 
 
