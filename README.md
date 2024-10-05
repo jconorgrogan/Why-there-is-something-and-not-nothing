@@ -1,4 +1,3 @@
-# Informational-Universe
 <img width="614" alt="image" src="https://github.com/user-attachments/assets/42035185-8ef7-4c09-8e79-b3f31b9bf83d">
 
 # Why is there something rather than nothing?
