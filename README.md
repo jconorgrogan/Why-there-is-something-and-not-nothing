@@ -16,7 +16,7 @@ No matter how we attempt to frame the fundamental nature of the universe (whethe
 ## Reframing the Question: Why is there information?
 If everything boils down to information, then the a way to rephrase the question "Why is there something rather than nothing?" becomes "How and why is there information rather than no information?
 
-**What is Information?**
+## What is Information?**
 Let's understand the definitions of information, so we can be clear on the conditions where information might arise.
 
 In a nutshell, information exists when one state can be identified as distinct from another. Without the ability to make such distinctions, no information can be conveyed. More specifically, the following criteria must be met:
