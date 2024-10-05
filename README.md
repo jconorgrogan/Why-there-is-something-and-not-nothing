@@ -50,7 +50,7 @@ Observers Have Distinguishable States; specifically the indistinguishable sectio
 
 With these definitions in mind, then the challenge is understanding how information might "emerge" in the first place 
 
-## Thought Experiment: Let's assume that there is no information in a universe 
+## Thought Experiment: Let's assume that there is _no_ information in a universe 
 
 Consider a world with no information. In such a universe, there is no space or time, no matter or energy, no forces or interactions. Everything is homogenous; every point is identical to every other point. Going back to our original definitions, this universe is non-distinguishable, does not have multiple possible states, and has no common basis for distinction.
 
@@ -66,6 +66,10 @@ In essence, observers exist within the arbitrary slices and interpret them based
 
 Differentiation within an Indistinguishable Set: The Infinite Potential for Distinction
 The core idea here is that in a perfectly homogenous set—a set where every point is indistinguishable from every other point—we can make infinite arbitrary divisions without these divisions altering the intrinsic homogeneity of the set. This means that, by definition, any number of cuts can be made, and these cuts do not create fundamentally different parts, but rather highlight relationships that were latent in the original whole. In different contexts, these arbitrary cuts can produce distinguishable features, without the overall uniformity being disturbed.
+
+**Information MUST arise from no information**
+
+[To be built out]
 
 **Measurement as an Interaction Between Distinct Frames of Indistinguishability**
 
