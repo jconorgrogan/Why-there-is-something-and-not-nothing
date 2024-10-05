@@ -34,11 +34,14 @@ The system must differentiate between states (that are distinguishable) that "ca
 
 Information is viewed and interpreted via an observer who has the:
 
-**Ability to Differentiate..**. The observer has the inherent ability to make distinctions—whether through sensory perception, measurement, or conceptual analysis. This capability is what gives rise to information. Think: A function that has the potential to output distinct values
+Ability to Differentiate
+The observer must have the inherent ability to make distinctions—whether through sensory perception, measurement, or conceptual analysis. This capability to differentiate between various states is what gives rise to information. Think of the observer as a function capable of outputting distinct values.
 
-**...Across Multiple States:** The phrase "across multiple states" emphasizes that the observer is actively comparing and differentiating across various states. It isn't just observing a static singularity; it's the relationship between the states that creates meaningful information.  Without multiple states to distinguish between, the observer has no informational function.
+Comparison Across Multiple States
+Information only becomes meaningful if the observer can compare multiple states. It’s not enough to observe a single state; the value of information emerges from the relationship between distinguishable states. Without multiple states to compare, the observer cannot produce any informational content.
 
-An observer operates within its own framework of constraints and limitations. These constraints could be due to limitations in sensory abilities, measurement tools, knowledge, or conceptual understanding. No observer is perfectly omniscient; their view of the system is always partial or incomplete.
+Unique Perspective on Indistinguishability
+What differentiates observers is their individual perspective on what is indistinguishable or "not possible" within a system. Each observer has their own set of differentiable constraints that defines what distinctions they can make and what is beyond their capacity to perceive or differentiate.
 
 The observer’s constraints and imperfections are what shape and limit the ability to distinguish between states.  For example, a person with limited color vision may be unable to distinguish between certain shades of color that others can easily differentiate. This constraint directly limits their ability to perceive the full range of possible states within the system of color perception. The more limited or constrained the observer is, the fewer distinctions they can make. In this way, their ability to differentiate is dependent directly on the state itself
 
