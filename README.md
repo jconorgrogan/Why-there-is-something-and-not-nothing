@@ -17,15 +17,13 @@ The system must differentiate between states (that are distinguishable) that "ca
 
 ## The Role of the Observer
 
- Let's recap what an observer is:
- 
-### Ability to Distinguish Between States
-The observer must be able to recognize or differentiate between different states of the system. This could involve physical measurements, sensory perception, or conceptual recognition of distinctions (e.g., a scientist observing a physical phenomenon or a sensor distinguishing between temperature levels).
+**Ability to Differentiate..**. The observer has the inherent ability to make distinctions—whether through sensory perception, measurement, or conceptual analysis. This capability is what gives rise to information.
 
-### Subject to its Own Constraints and Imperfections
+**...Across Multiple States:** The phrase "across multiple states" emphasizes that the observer is actively comparing and differentiating across various states. It isn't just observing a static singularity; it's the relationship between the states that creates meaningful information.  Without multiple states to distinguish between, the observer has no informational function.
+
 An observer operates within its own framework of constraints and limitations, which may result in imperfect information. These constraints could be due to limitations in sensory abilities, measurement tools, knowledge, or conceptual understanding. No observer is perfectly omniscient; their view of the system is always partial or incomplete.
 
-Furthermore, the observer’s constraints and imperfections (characteristic 2) are what shape and limit the ability to distinguish between states (characteristic 1). For example, a person with limited color vision may be unable to distinguish between certain shades of color that others can easily differentiate. This constraint directly limits their ability to perceive the full range of possible states within the system of color perception. The more limited or constrained the observer is, the fewer distinctions they can make. In this way, characteristic 2 directly leads to, and defines, characteristic 1.
+Often times (always?) The observer’s constraints and imperfections  are what shape and limit the ability to distinguish between states.  For example, a person with limited color vision may be unable to distinguish between certain shades of color that others can easily differentiate. This constraint directly limits their ability to perceive the full range of possible states within the system of color perception. The more limited or constrained the observer is, the fewer distinctions they can make. In this way, their ability to differentiate is dependent directly on the state itself
 
 **The observer as a frame of indistinguishability**
 
