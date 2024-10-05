@@ -44,22 +44,12 @@ The observer’s constraints and imperfections are what shape and limit the abil
 
 With these definitions in mind, then the challenge is understanding how information might "emerge" in the first place 
 
-## A World Without Information
-Consider a world with no information—a state of absolute uniformity and non-distinction. In such a state, there is no space or time, no matter or energy, no forces or interactions. Everything is homogenous; every point is identical to every other point. Going back to our original definitions, this universe is non-distinguishable, does not have multiple possible states, and has no common basis for distinction.
+## Thought Experiment: Let's assume that there is no information in a universe 
 
-In this theoretical universe, there are no discernible differences between states—everything appears identical or homogenous. If we assume the universe itself contains no inherent distinctions or differences (no change in space, time, or matter), then, in principle, it has no informational content on its own because information requires distinguishable states. 
+Consider a world with no information. In such a universe, there is no space or time, no matter or energy, no forces or interactions. Everything is homogenous; every point is identical to every other point. Going back to our original definitions, this universe is non-distinguishable, does not have multiple possible states, and has no common basis for distinction.
 
-## Arbitrary Cuts in a Non-Distinguishable World 
+If this universe is non-distinguishable, then by definition it can be conceptually "cut" into multiple "slices", which are both non-distinct from each of the slices, as well as non-disctinct from the whole. These arbitrary cuts provide a way to break up the infinite sameness into subunits or frames that, while still homogenous, create the possibility for comparison.
 
-### What are Arbitrary Cuts?
-An arbitrary cut is a conceptual slice through this undifferentiated reality. It doesn’t yet imply meaningful distinctions but represents a division or partition of the uniform space into multiple sections, even if these sections are still indistinguishable from one another.
-
-Imagine the universe as a vast, continuous hypercube of sameness—each segment of this hypercube represents a valid slice of the universe, but each slice remains indistinguishable from the others.
-
-These arbitrary cuts provide a way to break up the infinite sameness into subunits or frames that, while still homogenous, create the possibility for comparison.
-
-
-### How Observers arise from Arbitrary Cuts:
 - **Emerging Reference Frames**: As soon as you make arbitrary cuts, you create the potential for an observer, because an observer is a reference frame of indistinguishability within the universe. Even though the slices are indistinguishable at first, the fact that multiple slices exist means that an observer can emerge who is associated with one of those slices.
   
   These observers arise when some form of local reference (a particular cut or slice) begins to distinguish itself relative to other slices. The observer's imperfections allow them to perceive differences or relationships between these arbitrary slices, even if those distinctions don’t inherently exist in the original uniformity.
