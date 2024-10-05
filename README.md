@@ -29,7 +29,7 @@ For the distinction between states to be meaningful, the states must share a com
 ### 3. Distinguishing Possible from Non-Possible States (eg system boundaries) 
 The system must differentiate between states (that are distinguishable) that "can occur", and those that are non distinguishable, or outside of the realm of possibilities. In the light switch example, the states "on" and "off" are possible, whereas a state like "half-on" or "floating" is non-possible. Non-possible states are irrelevant to the system and fall outside its scope; furthermore they can be considered indistinguishable, from the perspective of the system. 
 
-## Information requires multiple states of comparrison: Enter the Role of the Observer
+## Information requires multiple states of comparison: Enter the Role of the Observer
 
 Information is viewed and interpreted via an observer who has the :
 
