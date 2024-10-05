@@ -27,7 +27,11 @@ An observer operates within its own framework of constraints and limitations, wh
 
 Furthermore, the observer’s constraints and imperfections (characteristic 2) are what shape and limit the ability to distinguish between states (characteristic 1). For example, a person with limited color vision may be unable to distinguish between certain shades of color that others can easily differentiate. This constraint directly limits their ability to perceive the full range of possible states within the system of color perception. The more limited or constrained the observer is, the fewer distinctions they can make. In this way, characteristic 2 directly leads to, and defines, characteristic 1.
 
-I would go even further: the _observer_ IS the system's boundries; more specifically, a specific frame of "indistinguishability" which has charectoristics that define its own constraints and imperfections, which then lead to a quality which enables it to distiguish amount states. 
+**The Observer as the Defining Boundary of Information"**
+
+I would argue that you could make a claim that the _observer_ IS the system's boundries; more specifically, a specific frame of "indistinguishability" which has charectoristics that define its own constraints and imperfections, which then lead to a quality which enables it to distiguish amount states. 
+
+If we think of the observer as a "differentiation machine," then information is simply a result of the differentiation process. The observer acts as a filter, shaping information by what distinctions it can and cannot make. In other words, what we call "information" is observer-dependent. The universe may contain an abundance of states, but only those which can be meaningfully differentiated by an observer become informationally relevant.
 
 ## The Universe as Information
 There are many competing frameworks which attempt to describe reality: quantum mechanics, general relativity, string theory etc. The one thing they all agree on? All are united in that they rely on information to describe reality, at every layer of complexity:
