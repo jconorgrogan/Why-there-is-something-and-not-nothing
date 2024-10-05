@@ -34,16 +34,16 @@ The system must differentiate between states (that are distinguishable) that "ca
 
 Information is viewed and interpreted via an observer who has the:
 
-Ability to Differentiate
+**Ability to Differentiate**
 The observer must have the inherent ability to make distinctions—whether through sensory perception, measurement, or conceptual analysis. This capability to differentiate between various states is what gives rise to information. Think of the observer as a function capable of outputting distinct values.
 
-Comparison Across Multiple States
+**Comparison Across Multiple States**
 Information only becomes meaningful if the observer can compare multiple states. It’s not enough to observe a single state; the value of information emerges from the relationship between distinguishable states. Without multiple states to compare, the observer cannot produce any informational content.
 
-Unique Perspective on Indistinguishability
+**Unique Perspective on Indistinguishability**
 What differentiates observers is their individual perspective on what is indistinguishable or "not possible" within a system. Each observer has their own set of differentiable constraints that defines what distinctions they can make and what is beyond their capacity to perceive or differentiate.
 
-The observer’s constraints and imperfections are what shape and limit the ability to distinguish between states.  For example, a person with limited color vision may be unable to distinguish between certain shades of color that others can easily differentiate. This constraint directly limits their ability to perceive the full range of possible states within the system of color perception. The more limited or constrained the observer is, the fewer distinctions they can make. In this way, their ability to differentiate is dependent directly on the state itself
+To be clear: The observer’s constraints and imperfections are what shape and limit the ability to distinguish between states.  For example, a person with limited color vision may be unable to distinguish between certain shades of color that others can easily differentiate. This constraint directly limits their ability to perceive the full range of possible states within the system of color perception. The more limited or constrained the observer is, the fewer distinctions they can make. In this way, their ability to differentiate is dependent directly on the state itself
 
 With these definitions in mind, then the challenge is understanding how information might "emerge" in the first place 
 
