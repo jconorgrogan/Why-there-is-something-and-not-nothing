@@ -17,30 +17,22 @@ In addition to being distinguishable, the states must be possible within the sys
 
 ## The Role of the Observer
 
-How do boundaries arise in a system? One proposal: the _observer_ creates these system boundaries or even is the boundaries themselves. By distinguishing possible states from non-possible ones, the observer fundamentally shapes—and in a sense defines—the informational content that can be derived from the system
+How do boundaries arise in a system? One proposal: the _observer_ IS the system's boundaries. 
 
+ Let's recap what an observer is:
 ### Ability to Distinguish Between States
 The observer must be able to recognize or differentiate between different states of the system. This could involve physical measurements, sensory perception, or conceptual recognition of distinctions (e.g., a scientist observing a physical phenomenon or a sensor distinguishing between temperature levels).
 
 ### Subject to its Own Constraints and Imperfections
 An observer operates within its own framework of constraints and limitations, which may result in imperfect information. These constraints could be due to limitations in sensory abilities, measurement tools, knowledge, or conceptual understanding. No observer is perfectly omniscient; their view of the system is always partial or incomplete.
 
-The observer’s constraints and imperfections (characteristic 2) are what shape and limit the ability to distinguish between states (characteristic 1). For example, a person with limited color vision may be unable to distinguish between certain shades of color that others can easily differentiate. This constraint directly limits their ability to perceive the full range of possible states within the system of color perception. The more limited or constrained the observer is, the fewer distinctions they can make. In this way, characteristic 2 directly leads to, and defines, characteristic 1.
+Furthermore, the observer’s constraints and imperfections (characteristic 2) are what shape and limit the ability to distinguish between states (characteristic 1). For example, a person with limited color vision may be unable to distinguish between certain shades of color that others can easily differentiate. This constraint directly limits their ability to perceive the full range of possible states within the system of color perception. The more limited or constrained the observer is, the fewer distinctions they can make. In this way, characteristic 2 directly leads to, and defines, characteristic 1.
 
 ### Observers as neccesary and sufficient for information formaiton 
-
-The observer doesn't just recognize boundaries; they can be considered as the boundaries that determine the existence and structure of information.
-
-In this perspective, the observer defines the limits within which distinctions can be made—essentially setting the framework that determines:
 
 What can be distinguished: The observer's perception defines what counts as distinct states.
 
 What is possible versus non-possible: The boundaries between possible and impossible states are shaped by the observer's constraints and capabilities.
-
-The context: The observer establishes the context within which these distinctions have meaning. Without the observer, there wouldn't be a reference frame that provides meaning to the differences.
-
-### The Observer's Imperfections Shape Information
-The observer’s limitations (imperfect senses, tools, or knowledge) play a crucial role in shaping what information is perceived. Since no observer is omniscient or perfect, the distinctions they draw are shaped by their constraints. These constraints might lead to partial or incomplete information, but nonetheless, they create the structure through which the observer perceives reality. This means that what we call "information" is not an objective feature of the universe alone but is influenced by the observer's subjective framework.
 
 ## The Universe as Information
 There are many competing frameworks which attempt to describe reality: quantum mechanics, general relativity, string theory etc. The one thing they all agree on? All are united in that they rely on information to describe reality, at every layer of complexity:
@@ -53,7 +45,7 @@ There are many competing frameworks which attempt to describe reality: quantum m
 As such, to understand reality, we must observe, measure, and process data—this is information. So, it stands to reason that the universe must enable information.
 
 ## Reframing the Question: Why Information?
-If everything boils down to information, then the question "Why is there something rather than nothing?" becomes "Why is there information rather than no information?"
+If everything boils down to information, then the question "Why is there something rather than nothing?" becomes 1. "Why is there information rather than no information? 2. If observers are required, how do they emerge? 
 
 ## A World Without Information
 To understand how information emerges, consider a world with no information—a state of absolute uniformity and non-distinction. In such a state, there is no space or time, no matter or energy, no forces or interactions. Everything is homogenous; every point is identical to every other point. Going back to our original definitions, this universe is non-distinguishable, does not have multiple possible states, and has no common basis for distinction.
