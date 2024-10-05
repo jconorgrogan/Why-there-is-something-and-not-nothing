@@ -4,7 +4,7 @@
 # Why is there something rather than nothing?
 
 ## The Universe as Information
-There are many competing frameworks which attempt to describe reality: quantum mechanics, general relativity, string theory etc. The one thing they all agree on? All are united in that they rely on information to describe reality, at every layer of complexity:
+There are many competing theories about what the universe is made of, and why and how it exists. Quantum mechanics, general relativity, string theory—all these frameworks offer different perspectives. Yet, despite their differences, they share a fundamental agreement: information lies at the core of how we understand reality.
 
 - **Particles** have properties such as position, momentum, spin, and charge—all pieces of information that distinguish one particle from another.
 - **Entanglement** is a phenomenon where particles become linked, and the state of one instantaneously influences the state of another, regardless of distance. This non-local behavior suggests that information is a fundamental aspect of the universe, transcending classical concepts of space and time.
@@ -14,7 +14,7 @@ There are many competing frameworks which attempt to describe reality: quantum m
 The unifying framework for all of these is that information is required
 
 ## Reframing the Question: Why Information?
-If everything boils down to information, then the question "Why is there something rather than nothing?" becomes "How and why is there information rather than no information?
+If everything boils down to information, then the a way to rephrase the question "Why is there something rather than nothing?" becomes "How and why is there information rather than no information?
 
 **What is Information?**
 Information exists when one state can be identified as distinct from another. Without the ability to make such distinctions, no information can be conveyed. Specifically, the following criteria must be met:
