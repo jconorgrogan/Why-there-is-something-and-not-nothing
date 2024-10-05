@@ -11,7 +11,7 @@ There are many competing theories about what the universe is made of, and why an
 - In **general relativity**, information is encoded in the curvature of spacetime caused by mass and energy. The geometry of the universe conveys information about gravitational fields and the distribution of matter.
 - **Black hole thermodynamics** introduces the concept of entropy proportional to the event horizon's area, suggesting that information about all the matter that has fallen into a black hole is encoded on its surface. This leads to the holographic principle, which posits that all the information contained within a volume of space can be represented as information on the boundary of that space.
 
-The unifying framework for all of these is that information is required. 
+No matter how we attempt to frame the fundamental nature of the universe (whether through energy, consciousness, fields, or mathematics), each of these frameworks ultimately requires information to be processed, differentiated, and understood. Information, in this context, becomes an unavoidable concept that we need to have an answer for emerging.
 
 ## Reframing the Question: Why is there information?
 If everything boils down to information, then the a way to rephrase the question "Why is there something rather than nothing?" becomes "How and why is there information rather than no information?
