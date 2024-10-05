@@ -3,7 +3,20 @@
 
 # Why is there something rather than nothing?
 
-## Introduction: What is Information?
+## The Universe as Information
+There are many competing frameworks which attempt to describe reality: quantum mechanics, general relativity, string theory etc. The one thing they all agree on? All are united in that they rely on information to describe reality, at every layer of complexity:
+
+- **Particles** have properties such as position, momentum, spin, and charge—all pieces of information that distinguish one particle from another.
+- **Entanglement** is a phenomenon where particles become linked, and the state of one instantaneously influences the state of another, regardless of distance. This non-local behavior suggests that information is a fundamental aspect of the universe, transcending classical concepts of space and time.
+- In **general relativity**, information is encoded in the curvature of spacetime caused by mass and energy. The geometry of the universe conveys information about gravitational fields and the distribution of matter.
+- **Black hole thermodynamics** introduces the concept of entropy proportional to the event horizon's area, suggesting that information about all the matter that has fallen into a black hole is encoded on its surface. This leads to the holographic principle, which posits that all the information contained within a volume of space can be represented as information on the boundary of that space.
+
+The unifying framework for all of these is that information is required
+
+## Reframing the Question: Why Information?
+If everything boils down to information, then the question "Why is there something rather than nothing?" becomes "How and why is there information rather than no information?
+
+**What is Information?**
 Information exists when one state can be identified as distinct from another. Without the ability to make such distinctions, no information can be conveyed. Specifically, the following criteria must be met:
 
 ### Multiple Distinguishable States
@@ -31,18 +44,6 @@ I would argue that you could make a claim that the _observer_ IS the system's bo
 
 If we think of the observer as a "differentiation machine," then information is simply a result of the differentiation process. The observer acts as a filter, shaping information by what distinctions it can and cannot make. In other words, what we call "information" is observer-dependent. The universe may contain an abundance of states, but only those which can be meaningfully differentiated by an observer become informationally relevant.
 
-## The Universe as Information
-There are many competing frameworks which attempt to describe reality: quantum mechanics, general relativity, string theory etc. The one thing they all agree on? All are united in that they rely on information to describe reality, at every layer of complexity:
-
-- **Particles** have properties such as position, momentum, spin, and charge—all pieces of information that distinguish one particle from another.
-- **Entanglement** is a phenomenon where particles become linked, and the state of one instantaneously influences the state of another, regardless of distance. This non-local behavior suggests that information is a fundamental aspect of the universe, transcending classical concepts of space and time.
-- In **general relativity**, information is encoded in the curvature of spacetime caused by mass and energy. The geometry of the universe conveys information about gravitational fields and the distribution of matter.
-- **Black hole thermodynamics** introduces the concept of entropy proportional to the event horizon's area, suggesting that information about all the matter that has fallen into a black hole is encoded on its surface. This leads to the holographic principle, which posits that all the information contained within a volume of space can be represented as information on the boundary of that space.
-
-As such, to understand reality, we must observe, measure, and process data—this is information. So, it stands to reason that the universe must enable information.
-
-## Reframing the Question: Why Information?
-If everything boils down to information, then the question "Why is there something rather than nothing?" becomes 1. "Why is there information rather than no information? 2. If observers are required, how do they emerge? 
 
 ## A World Without Information
 To understand how information emerges, consider a world with no information—a state of absolute uniformity and non-distinction. In such a state, there is no space or time, no matter or energy, no forces or interactions. Everything is homogenous; every point is identical to every other point. Going back to our original definitions, this universe is non-distinguishable, does not have multiple possible states, and has no common basis for distinction.
