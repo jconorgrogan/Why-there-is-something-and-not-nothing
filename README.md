@@ -11,13 +11,13 @@ There are many competing theories about what the universe is made of, and why an
 - In **general relativity**, information is encoded in the curvature of spacetime caused by mass and energy. The geometry of the universe conveys information about gravitational fields and the distribution of matter.
 - **Black hole thermodynamics** introduces the concept of entropy proportional to the event horizon's area, suggesting that information about all the matter that has fallen into a black hole is encoded on its surface. This leads to the holographic principle, which posits that all the information contained within a volume of space can be represented as information on the boundary of that space.
 
-The unifying framework for all of these is that information is required
+The unifying framework for all of these is that information is required. 
 
 ## Reframing the Question: Why Information?
 If everything boils down to information, then the a way to rephrase the question "Why is there something rather than nothing?" becomes "How and why is there information rather than no information?
 
 **What is Information?**
-Information exists when one state can be identified as distinct from another. Without the ability to make such distinctions, no information can be conveyed. Specifically, the following criteria must be met:
+Information exists when one state can be identified as distinct from another. Without the ability to make such distinctions, no information can be conveyed. At the most basic level, the following criteria must be met:
 
 ### Multiple Distinguishable States
 There must be more than one possible state that can be differentiated. Information arises when these states are distinguishable in some observable or meaningful way. For example, a light switch has two possible states: "on" and "off." These states are distinct because they produce different effects—light or darkness. If only one state existed, no information could be conveyed because there would be nothing to compare.  
@@ -30,23 +30,20 @@ The system must differentiate between states (that are distinguishable) that "ca
 
 ## The Role of the Observer
 
+Information is viewed and interpretted via the lens of the observer:
+
 **Ability to Differentiate..**. The observer has the inherent ability to make distinctions—whether through sensory perception, measurement, or conceptual analysis. This capability is what gives rise to information.
 
 **...Across Multiple States:** The phrase "across multiple states" emphasizes that the observer is actively comparing and differentiating across various states. It isn't just observing a static singularity; it's the relationship between the states that creates meaningful information.  Without multiple states to distinguish between, the observer has no informational function.
 
 An observer operates within its own framework of constraints and limitations, which may result in imperfect information. These constraints could be due to limitations in sensory abilities, measurement tools, knowledge, or conceptual understanding. No observer is perfectly omniscient; their view of the system is always partial or incomplete.
 
-Often times (always?) The observer’s constraints and imperfections  are what shape and limit the ability to distinguish between states.  For example, a person with limited color vision may be unable to distinguish between certain shades of color that others can easily differentiate. This constraint directly limits their ability to perceive the full range of possible states within the system of color perception. The more limited or constrained the observer is, the fewer distinctions they can make. In this way, their ability to differentiate is dependent directly on the state itself
+The observer’s constraints and imperfections  are what shape and limit the ability to distinguish between states.  For example, a person with limited color vision may be unable to distinguish between certain shades of color that others can easily differentiate. This constraint directly limits their ability to perceive the full range of possible states within the system of color perception. The more limited or constrained the observer is, the fewer distinctions they can make. In this way, their ability to differentiate is dependent directly on the state itself
 
-**The observer as a frame of indistinguishability**
-
-I would argue that you could make a claim that the _observer_ IS the system's boundries; more specifically, a specific frame of "indistinguishability" which has charectoristics that define its own constraints and imperfections, which then lead to a quality which enables it to distiguish amount states. 
-
-If we think of the observer as a "differentiation machine," then information is simply a result of the differentiation process. The observer acts as a filter, shaping information by what distinctions it can and cannot make. In other words, what we call "information" is observer-dependent. The universe may contain an abundance of states, but only those which can be meaningfully differentiated by an observer become informationally relevant.
-
+With these definitions in mind, then the challenge is understanding how information might "emerge" in the first place 
 
 ## A World Without Information
-To understand how information emerges, consider a world with no information—a state of absolute uniformity and non-distinction. In such a state, there is no space or time, no matter or energy, no forces or interactions. Everything is homogenous; every point is identical to every other point. Going back to our original definitions, this universe is non-distinguishable, does not have multiple possible states, and has no common basis for distinction.
+Consider a world with no information—a state of absolute uniformity and non-distinction. In such a state, there is no space or time, no matter or energy, no forces or interactions. Everything is homogenous; every point is identical to every other point. Going back to our original definitions, this universe is non-distinguishable, does not have multiple possible states, and has no common basis for distinction.
 
 In this theoretical universe, there are no discernible differences between states—everything appears identical or homogenous. If we assume the universe itself contains no inherent distinctions or differences (no change in space, time, or matter), then, in principle, it has no informational content on its own because information requires distinguishable states. 
 
