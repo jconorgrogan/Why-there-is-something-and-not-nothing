@@ -4,7 +4,7 @@
 # Why is there something rather than nothing?
 
 ## Introduction: What is Information?
-Information fundamentally involves the ability to recognize and distinguish between different states within a system. It exists when one state can be identified as distinct from another. Without the ability to make such distinctions, no information can be conveyed. For information to exist, the following conditions must be met:
+Information exists when one state can be identified as distinct from another. Without the ability to make such distinctions, no information can be conveyed. Specifically, the following criteria must be met:
 
 ### Multiple Distinguishable States
 There must be more than one possible state that can be differentiated. Information arises when these states are distinguishable in some observable or meaningful way. For example, a light switch has two possible states: "on" and "off." These states are distinct because they produce different effects—light or darkness. If only one state existed, no information could be conveyed because there would be nothing to compare. The essence of information lies in this ability to differentiate between distinct states.
@@ -12,7 +12,7 @@ There must be more than one possible state that can be differentiated. Informati
 ### Common Basis for Distinction
 For the distinction between states to be meaningful, the states must share a common basis within the same system. This commonality provides the framework that allows the states to be compared and understood in relation to each other. For example, in the light switch system, both "on" and "off" pertain to the function of controlling light. They are distinguishable within this shared framework of light control, and it is this commonality that enables the comparison between these states. States outside this framework (e.g., the color of the switch) do not contribute to the informational content in this context.
 
-### Distinguishing Possible from Non-Possible States
+### Distinguishing Possible from Non-Possible States (eg system boundaries) 
 In addition to being distinguishable, the states must be possible within the system's defined boundaries. The system must differentiate between states that can occur and those that cannot. In the light switch example, the states "on" and "off" are possible, whereas a state like "half-on" or "floating" is non-possible. Non-possible states are irrelevant to the system and fall outside its scope. Defining what is possible within the system helps set its informational boundaries—information can only be carried by states that are valid within the system.
 
 ## The Role of the Observer
@@ -20,6 +20,7 @@ In addition to being distinguishable, the states must be possible within the sys
 How do boundaries arise in a system? One proposal: the _observer_ IS the system's boundaries. 
 
  Let's recap what an observer is:
+ 
 ### Ability to Distinguish Between States
 The observer must be able to recognize or differentiate between different states of the system. This could involve physical measurements, sensory perception, or conceptual recognition of distinctions (e.g., a scientist observing a physical phenomenon or a sensor distinguishing between temperature levels).
 
@@ -27,12 +28,6 @@ The observer must be able to recognize or differentiate between different states
 An observer operates within its own framework of constraints and limitations, which may result in imperfect information. These constraints could be due to limitations in sensory abilities, measurement tools, knowledge, or conceptual understanding. No observer is perfectly omniscient; their view of the system is always partial or incomplete.
 
 Furthermore, the observer’s constraints and imperfections (characteristic 2) are what shape and limit the ability to distinguish between states (characteristic 1). For example, a person with limited color vision may be unable to distinguish between certain shades of color that others can easily differentiate. This constraint directly limits their ability to perceive the full range of possible states within the system of color perception. The more limited or constrained the observer is, the fewer distinctions they can make. In this way, characteristic 2 directly leads to, and defines, characteristic 1.
-
-### Observers as neccesary and sufficient for information formaiton 
-
-What can be distinguished: The observer's perception defines what counts as distinct states.
-
-What is possible versus non-possible: The boundaries between possible and impossible states are shaped by the observer's constraints and capabilities.
 
 ## The Universe as Information
 There are many competing frameworks which attempt to describe reality: quantum mechanics, general relativity, string theory etc. The one thing they all agree on? All are united in that they rely on information to describe reality, at every layer of complexity:
