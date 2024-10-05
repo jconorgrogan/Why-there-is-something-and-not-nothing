@@ -45,6 +45,9 @@ What differentiates observers is their individual perspective on what is indisti
 
 To be clear: The observer’s constraints and imperfections are what shape and limit the ability to distinguish between states.  For example, a person with limited color vision may be unable to distinguish between certain shades of color that others can easily differentiate. This constraint directly limits their ability to perceive the full range of possible states within the system of color perception. The more limited or constrained the observer is, the fewer distinctions they can make. In this way, their ability to differentiate is dependent directly on the state itself
 
+**Observers are information themselves**
+Observers Have Distinguishable States; specifically the indistinguishable sections in a level 
+
 With these definitions in mind, then the challenge is understanding how information might "emerge" in the first place 
 
 ## Thought Experiment: Let's assume that there is no information in a universe 
