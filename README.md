@@ -52,6 +52,8 @@ With these definitions in mind, then the challenge is understanding how informat
 
 ## Thought Experiment: Let's assume that there is _no_ information in a universe 
 
+[To be built out]
+
 Consider a world with no information. In such a universe, there is no space or time, no matter or energy, no forces or interactions. Everything is homogenous; every point is identical to every other point. Going back to our original definitions, this universe is non-distinguishable, does not have multiple possible states, and has no common basis for distinction.
 
 If this universe is non-distinguishable, then by definition it can be conceptually "cut" into multiple "slices", which are both non-distinct from each of the slices, as well as non-disctinct from the whole. These arbitrary cuts provide a way to break up the infinite sameness into subunits or frames that, while still homogenous, create the possibility for comparison.
@@ -67,32 +69,14 @@ In essence, observers exist within the arbitrary slices and interpret them based
 Differentiation within an Indistinguishable Set: The Infinite Potential for Distinction
 The core idea here is that in a perfectly homogenous set—a set where every point is indistinguishable from every other point—we can make infinite arbitrary divisions without these divisions altering the intrinsic homogeneity of the set. This means that, by definition, any number of cuts can be made, and these cuts do not create fundamentally different parts, but rather highlight relationships that were latent in the original whole. In different contexts, these arbitrary cuts can produce distinguishable features, without the overall uniformity being disturbed.
 
-**Information MUST arise from no information**
 
 [To be built out]
 
 **Measurement as an Interaction Between Distinct Frames of Indistinguishability**
 
 When we think about observation or measurement, traditionally, we might think of a passive process where an observer simply detects or records the state of a system. However, if we reframe observers as entities with unique "frames of indistinguishability," then measurement becomes an active interaction between these frames.
+[To be built out]
 
-******Distinct Frames Collide to Create Distinction; in other words, information must arise from no information, in an infinite universe**
-
-Consider two observers, Observer A and Observer B, each with their own frame of indistinguishability. Within their own frames, certain aspects of the universe are inherently indistinguishable to them—meaning they cannot perceive the differences.
-When Observer A interacts with Observer B (or with the system observed by Observer B), what occurs is that each observer brings their unique perspective or their unique capacity to distinguish into the interaction. This means that the overlap or intersection of these two distinct frames becomes an area of potential differentiation.
-Measurement, then, is the process by which these interactions resolve what was previously indistinguishable within either frame alone. It’s through the comparison and interaction between two different sets of constraints and capabilities that new distinctions (i.e., information) emerge.
-
-
-Mathematical Representation and Observer-Dependent Cuts
-The example of arbitrary cuts in a homogenous set can also be well understood through mathematical concepts like symmetry breaking and higher-dimensional projections. In the mathematical sense, a perfectly symmetrical object can have infinite lines of symmetry, but none of these lines alter the symmetry itself. The lines are simply ways of imposing a relational understanding of different parts of the object.
-
-One useful analogy here is the notion of projections from higher dimensions to lower dimensions. Imagine a four-dimensional object projected into three-dimensional space. The original four-dimensional object is homogeneous in a certain sense that transcends our three-dimensional perspective. When it is projected, we perceive it as divided into various three-dimensional shadows, which are inherently less complete representations of the original. Each shadow is distinguishable in its form and properties, yet none of them fully encapsulates the essence of the higher-dimensional object. Observers who perceive these projections naturally differentiate between them, even though these differences emerge due to their dimensional limitations.
-
-The infinite cuts in a homogenous set serve as similar projections—arbitrary distinctions that do not fully represent the original's true form but that gain meaning through contextual interpretation by an observer. Observers, operating with their own constraints and limited perspectives, draw meaningful lines, creating a framework within which to perceive and engage with an otherwise undifferentiated reality.
-
-**Conclusion: The Paradox of Differentiation in a Homogenous Universe**
-In summary, the homogenous universe can be understood as containing infinite latent possibilities for differentiation, and observers arise as natural agents who actualize these distinctions. The key to understanding why there is "something" rather than "nothing" lies in recognizing that the "something" emerges not because the original state is unstable or incomplete, but because observers, by nature of their own limitations, impose a contextual framework on an otherwise undifferentiated potential.
-
-This act of imposing distinctions does not alter the underlying homogeneity. Instead, it highlights relationships and partitions that were always possible but never actualized until framed by an observer's contextual view. Differentiation, therefore, is fundamentally about drawing infinite, context-dependent cuts within a homogenous set—creating something distinguishable without ever changing the essence of the original undifferentiated whole. This results in an emergent "something"—a universe filled with information, structure, and complexity, all of which is deeply tied to the observer's unique vantage point and the distinctions they make within an otherwise continuous and undistinguished field of potential.
 
 ### Appendix: Mathematical Examples on How Differences Can Emerge:
 
