@@ -63,9 +63,11 @@ In mathematics, a singularity is a point at which a mathematical object is not w
 **As such, a candidate I am putting forth for a universe with no information, are all possible singularities under all possible reference frames.**__
 
 **ADE Classifacations**
-Here, Math seems to provide an interesting description/candidate for this; https://en.wikipedia.org/wiki/ADE_classification 
+Here, Math seems to provide an interesting description/candidate for just this; https://en.wikipedia.org/wiki/ADE_classification 
 
-The strength of the ADE classification lies in its universality. The simply laced Dynkin diagrams of ADE represent all possible ways that singularities can appear and be viewed from any perspective, in any system.
+The strength of the ADE classification lies in its universality. The simply laced Dynkin diagrams of ADE represent all possible ways that singularities can appear and be viewed from any perspective, in any system. If we consider each ADE diagram as mapping out the potential structures of breakdowns in differentiation of all possible singularities, we begin to get a picture of the possible ways that "nothing" might manifest itself when all distinctions collapse.
+
+This is compelling because it suggests that "nothingness" itself has structure—even in the absence of traditional information, there is still a deep underlying mathematical framework that can be described, and which one can draw connections to and which information can arise. 
 
 
 If this universe is non-distinguishable, then by definition it can be conceptually "cut" into multiple "slices", which are both non-distinct from each of the slices, as well as non-disctinct from the whole. These arbitrary cuts provide a way to break up the infinite sameness into subunits or frames that, while still homogenous, create the possibility for comparison.
