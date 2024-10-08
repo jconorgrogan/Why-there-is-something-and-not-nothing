@@ -13,7 +13,7 @@ There are many competing theories about what the universe is made of, and why an
 No matter how we attempt to frame the fundamental nature of the universe (whether through energy, consciousness, fields, or mathematics), each of these frameworks ultimately requires information to be processed, differentiated, and understood. 
 
 ## Reframing the Question: Why is there information?
-We can thus rephrase the question "Why is there something rather than nothing?" into a more precise "How and why is there information rather than no information? 
+We can thus rephrase the question "Why is there something rather than nothing?" into a more precise "How and why is there information rather than no information?" 
 
 In order to attempt to formulate an answer to this question, we need to be precise on what information is and the conditions on which it may arise. 
 
@@ -22,7 +22,7 @@ In order to attempt to formulate an answer to this question, we need to be preci
 In a nutshell, information exists when one state can be identified as distinct from another. Without the ability to make such distinctions, no information can be conveyed. More specifically, the following criteria must be met:
 
 ### 1. Multiple Distinguishable States must be identified 
-There must be more than one possible state that can be differentiated. Information arises when these states are distinguishable in some observable or meaningful way. For example, a light switch has two possible states: "on" and "off." These states are distinct because they produce different effects—light or darkness. If only one state existed, no information could be conveyed because there would be nothing to compare.  
+There must be more than one possible state that can be differentiated. Information arises when these states are distinguishable in some observable or meaningful way. For example, a light switch has two possible states: "on" and "off." These states are distinct because they produce different effects—light or darkness. If only one state existed, no information could be conveyed because there would be nothing to compare. 
 
 ### 2. There must be a common basis to make any distinction 
 For the distinction between states to be meaningful, the states must share a common basis within the same system. This commonality provides the framework that allows the states to be compared and understood in relation to each other. For example, in the light switch system, both "on" and "off" pertain to the function of controlling light. They are distinguishable within this shared framework of light control, and it is this commonality that enables the comparison between these states. States outside this framework (e.g., the color of the switch) do not contribute to the informational content in this context.
@@ -43,10 +43,9 @@ Information only becomes meaningful if the observer can compare multiple states.
 **Unique Perspective on Indistinguishability**
 What differentiates observers is their individual perspective on what is indistinguishable or "not possible" within a system. Each observer has their own set of differentiable constraints that defines what distinctions they can make and what is beyond their capacity to perceive or differentiate.
 
-To be clear: The observer’s constraints and imperfections are what shape and limit the ability to distinguish between states.  For example, a person with limited color vision may be unable to distinguish between certain shades of color that others can easily differentiate. This constraint directly limits their ability to perceive the full range of possible states within the system of color perception. The more limited or constrained the observer is, the fewer distinctions they can make. In this way, their ability to differentiate is dependent directly on the state itself
+To be clear: The observer’s constraints and imperfections are what shape and limit the ability to distinguish between states.  For example, a person with limited color vision may be unable to distinguish between certain shades of color that others can easily differentiate. This constraint directly limits their ability to perceive the full range of possible states within the system of color perception. The more limited or constrained the observer is, the fewer distinctions they can make. In this way, their ability to differentiate is dependent directly on the information itself
 
-**Observers are information themselves**
-Observers Have Distinguishable States; specifically the indistinguishable sections in a level 
+Notably, _Observers_ have Distinguishable States themselves; they are informational.
 
 With these definitions in mind, then the challenge is understanding how information might "emerge" in the first place 
 
@@ -60,15 +59,16 @@ In mathematics, a singularity is a point at which a mathematical object is not w
 2. Common Basis Is Lacking: Standard frameworks for comparison fail.
 3. Boundaries Are Exceeded: Quantities go beyond the defined limits of the system.
 
-**As such, a candidate I am putting forth for a universe with no information, are all possible singularities under all possible reference frames.**__
+**As such, a candidate for a universe with no information are all possible singularities across all possible reference frames.**__
 
 **ADE Classifacations**
-Here, Math seems to provide an interesting description/candidate for just this; https://en.wikipedia.org/wiki/ADE_classification 
+Here, Math seems to provide an interesting description/candidate for this notion of all singularities across all reference points: ADE classification, a concept that has many deep connections to mathematics; https://en.wikipedia.org/wiki/ADE_classification 
 
-The strength of the ADE classification lies in its universality. The simply laced Dynkin diagrams of ADE represent all possible ways that singularities can appear and be viewed from any perspective, in any system. If we consider each ADE diagram as mapping out the potential structures of breakdowns in differentiation of all possible singularities, we begin to get a picture of the possible ways that "nothing" might manifest itself when all distinctions collapse.
+ThThe simply laced Dynkin diagrams of ADE represent all possible ways that singularities can appear and be viewed from any perspective, in any system. If we consider each ADE diagram as mapping out the potential structures of breakdowns in differentiation of all possible singularities, we begin to get a picture of the possible ways that "nothing" might manifest itself when all distinctions collapse.
 
-This is compelling because it suggests that "nothingness" itself has structure—even in the absence of traditional information, there is still a deep underlying mathematical framework that can be described, and which one can draw connections to and which information can arise. 
+This is compelling because it suggests that "nothingness" itself has structure—even in the absence of traditional information, there is still a deep underlying mathematical framework that can be described, and which one can draw connections to and which information can arise.
 
+[WIP]
 
 If this universe is non-distinguishable, then by definition it can be conceptually "cut" into multiple "slices", which are both non-distinct from each of the slices, as well as non-disctinct from the whole. These arbitrary cuts provide a way to break up the infinite sameness into subunits or frames that, while still homogenous, create the possibility for comparison.
 
