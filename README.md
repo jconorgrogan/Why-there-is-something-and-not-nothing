@@ -52,9 +52,14 @@ With these definitions in mind, then the challenge is understanding how informat
 
 ## Thought Experiment: Let's assume that there is _no_ information in a universe 
 
-[To be built out]
-
 Consider a world with no information. In such a universe, there is no space or time, no matter or energy, no forces or interactions. Everything is homogenous; every point is identical to every other point. Going back to our original definitions, this universe is non-distinguishable, does not have multiple possible states, and has no common basis for distinction.
+
+Singularities are a candidate; 
+In mathematics, a singularity is a point at which a mathematical object is not well-behaved in some particular way, specifically singularities represent points where all of our critera for information are not met:
+
+Distinguishability Breaks Down: We cannot easily identify multiple distinct states.
+Common Basis Is Lacking: Standard frameworks for comparison fail.
+Boundaries Are Exceeded: Quantities go beyond the defined limits of the system.
 
 If this universe is non-distinguishable, then by definition it can be conceptually "cut" into multiple "slices", which are both non-distinct from each of the slices, as well as non-disctinct from the whole. These arbitrary cuts provide a way to break up the infinite sameness into subunits or frames that, while still homogenous, create the possibility for comparison.
 
