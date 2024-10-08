@@ -5,13 +5,13 @@
 ## The Universe as Information
 There are many competing theories about what the universe is made of, and why and how it exists. Quantum mechanics, general relativity, string theory—all these frameworks offer different perspectives. Yet, despite their differences, they share a fundamental agreement: information lies at the core of how we understand reality.
 
-**Quantum Mechanics: **The universe is made up of particles whose properties (position, momentum, spin) are bits of information. Entanglement shows that information can be shared instantaneously across space, suggesting information is more fundamental than distance.
+**Quantum Mechanics:** The universe is made up of particles whose properties (position, momentum, spin) are bits of information. Entanglement shows that information can be shared instantaneously across space, suggesting information is more fundamental than distance.
 
-**General Relativity: **The universe is a fabric of spacetime, with mass and energy curving it. This curvature conveys information about the gravitational fields and matter distribution, making the geometry of spacetime a carrier of cosmic information.
+**General Relativity:** The universe is a fabric of spacetime, with mass and energy curving it. This curvature conveys information about the gravitational fields and matter distribution, making the geometry of spacetime a carrier of cosmic information.
 
 **String Theory:** The universe consists of tiny vibrating strings, where each vibration pattern encodes information about particle properties. The fundamental elements of reality are informational, expressed through these string vibrations.
 
-**Holographic Principle: **The universe's information is encoded on lower-dimensional boundaries, like a 3D image from a 2D surface. This theory suggests that the volume of space (and everything in it) can be described entirely by information stored on its boundary.
+**Holographic Principle:** The universe's information is encoded on lower-dimensional boundaries, like a 3D image from a 2D surface. This theory suggests that the volume of space (and everything in it) can be described entirely by information stored on its boundary.
 
 No matter how we attempt to frame the fundamental nature of the universe (whether through energy, consciousness, fields, or mathematics), each of these frameworks ultimately requires information to be processed, differentiated, and understood. 
 
