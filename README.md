@@ -30,7 +30,7 @@ There must be more than one possible state that can be differentiated. Informati
 ### 2. There must be a common basis to make any distinction 
 For the distinction between states to be meaningful, the states must share a common basis within the same system. This commonality provides the framework that allows the states to be compared and understood in relation to each other. For example, in the light switch system, both "on" and "off" pertain to the function of controlling light. They are distinguishable within this shared framework of light control, and it is this commonality that enables the comparison between these states. States outside this framework (e.g., the color of the switch) do not contribute to the informational content in this context.
 
-### 3.The system must have boundaries, which define what is possible; As such there must be some set of non-disguishable and non-Possible States 
+###  3.The system must have boundaries, which define what is possible; As such there must be some set of non-disguishable and non-Possible States 
 The system must differentiate between states (that are distinguishable) that "can occur", and those that are non distinguishable, or outside of the realm of possibilities. In the light switch example, the states "on" and "off" are possible, whereas a state like "half-on" or "floating" is non-possible. Non-possible states are irrelevant to the system and fall outside its scope; furthermore they can be considered indistinguishable from the perspective of the system alone. 
 
 ## Information requires multiple states of comparison: Enter the Role of the Observer
