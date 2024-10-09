@@ -62,36 +62,22 @@ In mathematics, a singularity is a point at which a mathematical object is not w
 2. Common Basis Is Lacking: Standard frameworks for comparison fail.
 3. Boundaries Are Exceeded and break down: Quantities go beyond the defined limits of the system.
 
-**As such, a candidate for a universe with no information are all possible singularities across all possible reference frames.**__
+As such, a candidate for a universe with no information is one that holds are all possible singularities across all possible reference frames.
+
+## Information must emerge from all possible singularities 
 
 **ADE Classifacations**
-Here, Math seems to provide an interesting description/candidate for this notion of all singularities across all reference points: ADE classification, a concept that has many deep connections to mathematics; https://en.wikipedia.org/wiki/ADE_classification 
+Here, Math seems to provide an interesting description/candidate for this notion of all singularities across all reference points: ADE classification.  The simply laced Dynkin diagrams of ADE represent all possible ways that singularities can appear and be viewed from any perspective, in any system. If we consider each ADE diagram as mapping out the potential structures of breakdowns in differentiation of all possible singularities. https://en.wikipedia.org/wiki/ADE_classification 
 
-ThThe simply laced Dynkin diagrams of ADE represent all possible ways that singularities can appear and be viewed from any perspective, in any system. If we consider each ADE diagram as mapping out the potential structures of breakdowns in differentiation of all possible singularities, we begin to get a picture of the possible ways that "nothing" might manifest itself when all distinctions collapse.
+In the context of singularities, even though each singularity represents a point of breakdown, their classification (like in the ADE scheme) enables us to differentiate between them. This differentiation is the foundation of informational content.
 
-This is compelling because it suggests that "nothingness" itself has structure—even in the absence of traditional information, there is still a deep underlying mathematical framework that can be described, and which one can draw connections to and which information can arise.
+The key insight is that information arises when we can differentiate between distinct possibilities; . 
 
-[WIP]
-
-If this universe is non-distinguishable, then by definition it can be conceptually "cut" into multiple "slices", which are both non-distinct from each of the slices, as well as non-disctinct from the whole. These arbitrary cuts provide a way to break up the infinite sameness into subunits or frames that, while still homogenous, create the possibility for comparison.
-
-- **Emerging Reference Frames**: As soon as you make arbitrary cuts, you create the potential for an observer, because an observer is a reference frame of indistinguishability within the universe. Even though the slices are indistinguishable at first, the fact that multiple slices exist means that an observer can emerge who is associated with one of those slices.
-  
-  These observers arise when some form of local reference (a particular cut or slice) begins to distinguish itself relative to other slices. The observer's imperfections allow them to perceive differences or relationships between these arbitrary slices, even if those distinctions don’t inherently exist in the original uniformity.
-  
-- **Constraints as a Basis for Perception**: Even in a uniform universe, observers can arise because of their own constraints. These constraints (such as limited perception, sensory limitations, or finite resolution) cause them to interpret the arbitrary cuts as distinct. The observers cannot perceive the totality of the universe’s uniformity and instead impose their own limitations on it, leading to differentiations that only they can perceive.
-
-In essence, observers exist within the arbitrary slices and interpret them based on their own incomplete ability to interact with the whole universe. These imperfections are what force them to create distinctions, and these distinctions are what lead to the perception of information.
-
-Differentiation within an Indistinguishable Set: The Infinite Potential for Distinction
-The core idea here is that in a perfectly homogenous set—a set where every point is indistinguishable from every other point—we can make infinite arbitrary divisions without these divisions altering the intrinsic homogeneity of the set. This means that, by definition, any number of cuts can be made, and these cuts do not create fundamentally different parts, but rather highlight relationships that were latent in the original whole. In different contexts, these arbitrary cuts can produce distinguishable features, without the overall uniformity being disturbed.
-
-
-[To be built out]
+"Nothingness" itself has structure—even in the absence of traditional information, there is still a deep underlying mathematical framework that can be described, and which one can draw connections to and which information can arise.
 
 **Measurement as an Interaction Between Distinct Frames of Indistinguishability**
 
-When we think about observation or measurement, traditionally, we might think of a passive process where an observer simply detects or records the state of a system. However, if we reframe observers as entities with unique "frames of indistinguishability," then measurement becomes an active interaction between these frames.
+When we think about observation or measurement, traditionally, we might think of a passive process where an observer simply detects or records the state of a system. However, if we reframe observers as entities with unique "frames of indistinguishability," eg points of comparison between singularity frames,  then measurement becomes an active interaction between these frames.
 [To be built out]
 
 
