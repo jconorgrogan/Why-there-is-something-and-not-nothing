@@ -56,11 +56,11 @@ With these definitions in mind, then the challenge is understanding how informat
 
 Consider a world with no information. In such a universe, there is no space or time, no matter or energy, no forces or interactions. Everything is homogenous; every point is identical to every other point. Going back to our original definitions, this universe is non-distinguishable, does not have multiple possible states, and has no common basis for distinction.
 
-In mathematics, a singularity is a point at which a mathematical object is not well-behaved in some particular way, specifically singularities represent points where all of our critera for information are not met:
+In mathematics, a singularity is a point at which a mathematical object is not well-behaved in some particular way. At the singular singularity point, there is no direct information that can be extracted. This is because we cannot compute or define anything at that point using the usual methods. It's as if the singularity represents an "informational void" within the structure. Notably, all of our critera for information that we previously established are not met:
 
-1. Distinguishability Breaks Down: We cannot easily identify multiple distinct states.
+1. Distinguishability Breaks Down: We cannot easily identify multiple distinct states within the singularity.
 2. Common Basis Is Lacking: Standard frameworks for comparison fail.
-3. Boundaries Are Exceeded: Quantities go beyond the defined limits of the system.
+3. Boundaries Are Exceeded and break down: Quantities go beyond the defined limits of the system.
 
 **As such, a candidate for a universe with no information are all possible singularities across all possible reference frames.**__
 
