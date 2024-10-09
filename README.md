@@ -71,9 +71,7 @@ Here, Math seems to provide an interesting description/candidate for this notion
 
 In the context of singularities, even though each singularity represents a point of breakdown, their classification (like in the ADE scheme) enables us to differentiate between them. This differentiation is the foundation of informational content.
 
-The key insight is that information arises when we can differentiate between distinct possibilities; . 
-
-"Nothingness" itself has structure—even in the absence of traditional information, there is still a deep underlying mathematical framework that can be described, and which one can draw connections to and which information can arise.
+By conceptualizing the universe as a collection of all possible singularities, you're effectively saying that information arises from the distinctions and relationships between these singularities. This turns the "void" into a relational system, where the information content is encoded in how these points of collapse (singularities) relate to one another. This relational structure is what gives rise to information, even in what might initially seem like an informational void...  In a broader sense, singularities can be seen as reference points that allow us to define distinguishable states in the first place. Without some set of singularities (or boundaries), there would be no framework within which to define different states—and thus, no information. By classifying singularities and establishing relationships between them (as in ADE classification or moduli spaces), you are essentially creating a system of distinguishable states from which information emerges.
 
 **Measurement as an Interaction Between Distinct Frames of Indistinguishability**
 
